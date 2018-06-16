@@ -1,0 +1,6 @@
+images_and_labels/test_images.npy filter=lfs diff=lfs merge=lfs -text
+images_and_labels/digits/digit_images.npy filter=lfs diff=lfs merge=lfs -text
+images_and_labels/digits/test_digits.npy filter=lfs diff=lfs merge=lfs -text
+images_and_labels/mnist/mnist_images.npy filter=lfs diff=lfs merge=lfs -text
+images_and_labels/operators/operator_images.npy filter=lfs diff=lfs merge=lfs -text
+images_and_labels/operators/test_operators.npy filter=lfs diff=lfs merge=lfs -text
