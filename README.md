@@ -1,6 +1,6 @@
 # UI Data Science Competition
 
-For the machine learning track of the University of Idaho's inagural 
+For the machine learning track of the University of Idaho's inaugural 
 Data Science competition, students were tasked with constructing a neural 
 network that could grade handwritten arithmetic problems. These handwritten 
 problems took one of four possible forms:
